@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\RegistrosSqlPractica\RegistrosSqlPractica\bin\Debug\RegistrosSqlPractica.exe.config
+C:\Users\Usuario\source\repos\RegistrosSqlPractica\RegistrosSqlPractica\bin\Debug\RegistrosSqlPractica.exe
+C:\Users\Usuario\source\repos\RegistrosSqlPractica\RegistrosSqlPractica\bin\Debug\RegistrosSqlPractica.pdb
+C:\Users\Usuario\source\repos\RegistrosSqlPractica\RegistrosSqlPractica\obj\Debug\RegistrosSqlPractica.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\RegistrosSqlPractica\RegistrosSqlPractica\obj\Debug\RegistrosSqlPractica.Form1.resources
+C:\Users\Usuario\source\repos\RegistrosSqlPractica\RegistrosSqlPractica\obj\Debug\RegistrosSqlPractica.Properties.Resources.resources
+C:\Users\Usuario\source\repos\RegistrosSqlPractica\RegistrosSqlPractica\obj\Debug\RegistrosSqlPractica.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\RegistrosSqlPractica\RegistrosSqlPractica\obj\Debug\RegistrosSqlPractica.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\RegistrosSqlPractica\RegistrosSqlPractica\obj\Debug\RegistrosSqlPractica.exe
+C:\Users\Usuario\source\repos\RegistrosSqlPractica\RegistrosSqlPractica\obj\Debug\RegistrosSqlPractica.pdb
+C:\Users\Usuario\source\repos\RegistrosSqlPractica\RegistrosSqlPractica\obj\Debug\RegistrosSqlPractica.exe.config
+C:\Users\Usuario\source\repos\RegistrosSqlPractica\RegistrosSqlPractica\obj\Debug\RegistrosSqlPractica.Form2.resources
+C:\Users\Usuario\source\repos\RegistrosSqlPractica\RegistrosSqlPractica\obj\Debug\RegistrosSqlPractica.Form3.resources
